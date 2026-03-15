@@ -50,8 +50,8 @@ pip install torch torchvision jupyter optuna matplotlib numpy
 Clone this repo and launch Jupyter:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/Dhruta25/PyTorch_learning.git
+cd PyTorch_learning
 jupyter notebook
 ```
 
